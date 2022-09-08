@@ -1,1 +1,1 @@
-printing the str indexed value
+returning the value by func
