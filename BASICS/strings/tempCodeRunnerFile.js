@@ -1,0 +1,1 @@
+printing the str indexed value
